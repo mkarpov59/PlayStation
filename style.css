@@ -5,6 +5,7 @@ h1::before{
   content: url("https://i.ibb.co/FXxj3zF/andtoid-playstation-png-logo-24-2.png");
   width: 265px;
   height: 419px;
+  display: inline-block;
 }
 h1{ 
   font-size: 200px;
