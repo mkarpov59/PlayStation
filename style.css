@@ -17,3 +17,6 @@ nav{
   height: 51 px;
   padding-right: 200 px;
 }
+.image{
+  float: left;
+}
