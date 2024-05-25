@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+h1::before{
+  content: url("https://i.ibb.co/FXxj3zF/andtoid-playstation-png-logo-24-2.png");
+  width: 365 px;
+  height: 519 px;
+}
+h1{ 
+  width: 805 px;
+  height: 177 px;
+}
+nav{
+  display:flex;
+  justify-content: center;
+  width: 266 px;
+  height: 51 px;
+  padding-right: 200 px;
+}
