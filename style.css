@@ -3,20 +3,21 @@ body {
 }
 h1::before{
   content: url("https://i.ibb.co/FXxj3zF/andtoid-playstation-png-logo-24-2.png");
-  width: 265 px;
-  height: 419 px;
+  width: 265px;
+  height: 419px;
 }
 h1{ 
+  font-size: 200px;
   color: white;
-  width: 805 px;
-  height: 177 px;
+  width: 805px;
+  height: 177px;
 }
 nav{
   display:flex;
   justify-content: center;
-  width: 266 px;
-  height: 51 px;
-  padding-right: 200 px;
+  width: 266px;
+  height: 51px;
+  padding-right: 200px;
 }
 .image{
   float: left;
